@@ -1,0 +1,2 @@
+import modtest
+modtest.greet()
